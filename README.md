@@ -52,6 +52,7 @@ Follow step-by-step instructions to configure your development environment for O
 
 1. Clone the repository:
    ```bash
+   HTTPS:
    git clone https://github.com/minhducincsehcmut/Unity-Basic-Introduction.git
    cd unity-vr-tutorial-series
 
